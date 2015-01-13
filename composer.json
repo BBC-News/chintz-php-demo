@@ -1,0 +1,18 @@
+{
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/pgchamberlin/chintz"
+        },
+        {
+            "type": "git",
+            "url": "https://github.com/pgchamberlin/chintz-parser-php"
+        }
+    ],
+    "require": {
+        "pgchamberlin/chintz": "dev-master",
+        "pgchamberlin/chintz-parser-php": "dev-master",
+        "mustache/mustache": "2.7.*",
+        "symfony/yaml": "~2.6"
+    }
+}
