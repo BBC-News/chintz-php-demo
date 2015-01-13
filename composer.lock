@@ -57,7 +57,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pgchamberlin/chintz",
-                "reference": "bd2d832f6243f1aaf75acb8249911df4c92aaa7b"
+                "reference": "294013810df7cdc80c20bfd9c928b0aeee60011a"
             },
             "type": "library",
             "license": [
@@ -73,7 +73,7 @@
             ],
             "description": "Static bits and bobs",
             "homepage": "https://github.com/pgchamberlin/chintz",
-            "time": "2015-01-13 15:58:03"
+            "time": "2015-01-13 17:05:42"
         },
         {
             "name": "pgchamberlin/chintz-parser-php",
@@ -81,7 +81,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/pgchamberlin/chintz-parser-php",
-                "reference": "196eeea36b3710f7c88fb01e302116e87f79ecc8"
+                "reference": "4db64674b5edd94854cf1695ab47a23c86b164b1"
             },
             "type": "library",
             "autoload": {
@@ -102,7 +102,7 @@
             ],
             "description": "Chintz Parser implemented in PHP",
             "homepage": "https://github.com/pgchamberlin/chintz-parser-php",
-            "time": "2015-01-13 16:40:15"
+            "time": "2015-01-13 18:15:20"
         },
         {
             "name": "symfony/yaml",
