@@ -1,7 +1,7 @@
-Chintz Parser PHP
-=================
+Chintz PHP Demo
+===============
 
-A PHP parser for [Chintz](https://github.com/pgchamberlin/chintz-demo#what-is-chintz) libraries.
+Using the [PHP parser](https://github.com/BBC-News/chintz-php) for the [Chintz demo library](https://github.com/BBC-News/chintz#what-is-chintz).
 
 ## Getting started with the demo
 
@@ -10,4 +10,4 @@ A PHP parser for [Chintz](https://github.com/pgchamberlin/chintz-demo#what-is-ch
  - Run composer install
  - Visit `index.php` in the browser
 
-You have now installed the demo Chintz library.
+You have now installed the demo Chintz library. It should look a bit like [this hosted version](http://peterchamberlin.com/experiments/chintz-parser-php-demo/index.php).
